@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2021-11-07T13:02:05.671Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="15.7.0" etag="Qkr-wGd2hfgIiX-f1c3L" type="github"><diagram id="V51sYZmwM-TRDQ3rJPVA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-07T13:05:09.891Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="bx8J6PJotgwbZofQ7HnM" version="15.7.0" type="github">
+  <diagram id="V51sYZmwM-TRDQ3rJPVA" name="Page-1">
+    <mxGraphModel dx="1485" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XsPQehy-5ivBseYOah9C-1" value="Version Control&lt;br&gt;Deployment Automation&lt;br&gt;Continuous Integration&lt;br&gt;Trunk-Based Development&lt;br&gt;Test Automation&lt;br&gt;Test Data Management&lt;br&gt;Shift Left on Security&lt;br&gt;Loosely Coupled Architecture&lt;br&gt;Empowered Teams&lt;br&gt;Monitoring&lt;br&gt;Proactive Notifications" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="100" y="210" width="170" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="XsPQehy-5ivBseYOah9C-2" value="Continuous Delivery" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="380" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XsPQehy-5ivBseYOah9C-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XsPQehy-5ivBseYOah9C-1" target="XsPQehy-5ivBseYOah9C-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="440" as="sourcePoint" />
+            <mxPoint x="440" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
